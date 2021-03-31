@@ -4,6 +4,8 @@ Entropy-based techniques for the analysis of symbolic time series, i.e. sequence
 - Autoinformation (AIF): time-lagged mutual information coefficients
 - Partial autoinformation (PAIF)
 - Finite entropy rate
+- Finite excess entropy
+- Active information storage
 
 *Application examples:* (Hidden-) Markov Models, spin models (Ising, Potts,...), EEG microstate sequences.
 
