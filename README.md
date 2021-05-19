@@ -1,5 +1,7 @@
 # Autoinformation
 
+[![DOI](https://zenodo.org/badge/144949147.svg)](https://zenodo.org/badge/latestdoi/144949147)
+
 Entropy-based techniques for the analysis of symbolic time series, i.e. sequences of non-metric variables from a finite state space.
 - Autoinformation (AIF): time-lagged mutual information coefficients
 - Partial autoinformation (PAIF)
